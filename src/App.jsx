@@ -1,11 +1,11 @@
 import Hero from "./components/Hero";
-import Projects from "./components/Projects";
+import ProjectsNew from "./components/ProjectsNew";
 
 const App = () => {
   return (
     <main>
       <Hero />
-      <Projects />
+      <ProjectsNew />
     </main>
   );
 };
