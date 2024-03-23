@@ -6,7 +6,7 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-center">
         <div className="hero-title">
-          <h1>My Portofolio</h1>
+          <h1>My Portfolio</h1>
           <p>This is a simple website to showcase my portofolio. Take a look!</p>
         </div>
         <div className="img-container">
